@@ -42,5 +42,3 @@ Clone the repo:
 ```bash
 git clone https://github.com/Kareem-Mamdou7/museum-of-candy.git
 ```
-
-!
